@@ -42,8 +42,8 @@ int find_string(char *strs[], char *str, int len)                             //
 
 int judgement(char *p,int l)    //判断是哪一条指令
 {
-	int i, max = 17, j = 0;
-	char command[18];
+	int i, max = 19, j = 0;
+	char command[19];
 	for (i = 0; i<l; i++)
 	{
 		command[i] = *(p + i);
