@@ -1,4 +1,4 @@
-//用printf函数输出一个由*号组成的小飞机形状的图形
+//用printf函数输出一个由符号*组成的小飞机形状的图形
 
 #include<stdio.h>
 int main()
