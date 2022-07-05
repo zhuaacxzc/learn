@@ -1,3 +1,5 @@
+//一个简单的关机小程序
+
 #define _CRT_SECURE_NO_WARNINGS 1
 
 #include<stdio.h>
